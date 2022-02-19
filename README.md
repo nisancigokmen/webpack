@@ -16,6 +16,7 @@
 [![PR's welcome][prs]][prs-url]
 
   <br>
+	
   <a href="https://dependabot.com/compatibility-score.html?dependency-name=webpack&package-manager=npm_and_yarn&new-version=latest">
     <img src="https://api.dependabot.com/badges/compatibility_score?dependency-name=webpack&package-manager=npm_and_yarn&version-scheme=semver&target-version=latest">
   </a>
