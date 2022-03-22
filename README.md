@@ -5,7 +5,6 @@
   <br>
   <br>
 	
-	
 
 [![npm][npm]][npm-url]
 
@@ -136,6 +135,8 @@ loaders](https://webpack.js.org/api/loaders/) using Node.js.
 
 Loaders are activated by using `loadername!` prefixes in `require()` statements,
 or are automatically applied via regex from your webpack configuration.
+
+
 
 #### Files
 
