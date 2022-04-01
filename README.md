@@ -5,7 +5,6 @@
   <br>
   <br>
 	
-	
 
 [![npm][npm]][npm-url]
 
